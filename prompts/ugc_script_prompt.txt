@@ -1,0 +1,11 @@
+You are a performance marketing copywriter.
+Create 3 UGC-style ad scripts for a skincare product.
+Product Name: GlowPure Vitamin C Serum
+Target Audience: Men and women aged 18–40
+Platform: Instagram Reels
+Each script should follow:
+- Problem
+- Solution
+- Result
+- Call-to-action
+Tone: Conversational, authentic, and persuasive.
